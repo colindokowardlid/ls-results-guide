@@ -1,2 +1,14 @@
 # ls-results-guide
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
